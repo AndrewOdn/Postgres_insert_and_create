@@ -1,2 +1,5 @@
 /.idea
-/pip
+pip
+/build
+/dist
+/PyPostgresIn.egg-info

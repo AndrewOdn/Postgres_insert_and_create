@@ -43,10 +43,6 @@ def sql_insert(connection, tab, data):
             sql_insert(connection, tab, data)
         else:
             print(error)
-    finally:
-        if connection:
-            cursor.close()
-            connection.close()
 
 
 def create_table(connection, tab, data):

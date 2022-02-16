@@ -7,7 +7,7 @@ requirements = ["psycopg2>=2.9.3"]
 
 setup(
     name="PyPostgresIn",
-    version="0.0.3",
+    version="0.0.4",
     author="Odnodvortsev Andrew",
     author_email="fastpeaple@gmail.com",
     description="A package to easy insert/create table in Postgres",

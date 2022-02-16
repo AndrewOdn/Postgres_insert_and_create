@@ -10,7 +10,7 @@ This library is  needed to **quickly start** working with **Postgres** in python
 <h2>Installation</h2>
 
 ```
-pip install -i https://test.pypi.org/simple/ PyPostgresIn==0.0.3
+pip install -i https://test.pypi.org/simple/ PyPostgresIn==0.0.31
 ```
 ```
 pip install -r requirements.txt

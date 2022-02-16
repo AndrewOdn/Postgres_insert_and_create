@@ -9,6 +9,6 @@ __author__ = 'Odnodvortsev Andrew'
 try:
     from _version import version
 except ImportError:
-    version = "0.0.2"
+    version = "0.0.3"
 
 __version__ = version

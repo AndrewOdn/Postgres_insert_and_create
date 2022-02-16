@@ -142,7 +142,4 @@ def get_all(l, *data):
     for i in range(0, len(data)):
         a.append((name(data[i], l), name_type(data[i]), data[i]))
     return a
-# main.sql_insert(connection, table_name, main.get_all(locals(), New_date, New_str, New_int, New_bool))
-# Выгразука даты в таблицу
-# Пока поддерживаются только типы int, bool, date, str, float!
-# sql_insert(connection, table_name, get_all(New_date, New_str, New_int, New_bool))
+

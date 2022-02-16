@@ -7,7 +7,7 @@ requirements = ["psycopg2>=2.9.3"]
 
 setup(
     name="PyPostgresIn",
-    version="0.0.1",
+    version="0.0.2",
     author="Odnodvortsev Andrew",
     author_email="fastpeaple@gmail.com",
     description="A package to easy insert/create table in Postgres",
@@ -17,6 +17,10 @@ setup(
     packages=find_packages(),
     install_requires=requirements,
     classifiers=[
+        "Operating System :: Microsoft :: Windows",
+        "Programming Language :: Python :: 3.6",
+        "Programming Language :: Python :: 3.7",
+        "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
     ],

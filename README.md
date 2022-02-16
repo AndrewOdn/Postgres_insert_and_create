@@ -10,7 +10,7 @@ This library is  needed to **quickly start** working with **Postgres** in python
 <h2>Installation</h2>
 
 ```
-pip install -i https://test.pypi.org/simple/ PyPostgresIn==0.0.1
+pip install -i https://test.pypi.org/simple/ PyPostgresIn==0.0.3
 ```
 ```
 pip install -r requirements.txt
@@ -48,3 +48,6 @@ PyPostgresIn.sql_insert(connection, table_name,  # Your connection and table_nam
 
 
 ```
+<h3>Release not stable and constantly updated, follow to get the latest releases
+<h3>https://github.com/AndrewOdn/PyPostgresIn
+<h3>https://test.pypi.org/project/PyPostgresIn/
